@@ -5,6 +5,7 @@ Yet another PowerShell script
 Got a cluttery Downloads folder with different files all over the place?
 Having a hard time finding your files?
 With this small script you can have a squeaky clean folder with categorized files almost instantly.
+
 ![App](screenshot_stuffsorter.png)
 
 ## Features
@@ -19,8 +20,9 @@ With this small script you can have a squeaky clean folder with categorized file
  
  1. Open the Task Scheduler by searching for it with Windows Search
  2. Create a new task on the right side pane of the window
- 3. Now follow the screenshots to setup: ![Task1](Task1.png)
- 4. ![Task2](Task2.png)
- 5. ![Task3](Task3_actions.png)
- 6. ![Task4](Task4.png)
- 7. ![Task5](Task5.png)
+ 3. Now follow the screenshots to setup: 
+ 4. ![Task1](Task1.png)
+ 5. ![Task2](Task2.png)
+ 6. ![Task3](Task3_actions.png)
+ 7. ![Task4](Task4.png)
+ 8. ![Task5](Task5.png)
